@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.oreville_ans.wxobeaf":{"geometry":"Geometry.default","textures":["Texture.default"],"light_color_multiplier":3.5,"ignore_lighting":true,"on_fire_color":{"r":1,"g":"1 - math.min(q.life_time * 3.2, 0.8)","b":"1 - math.min(q.life_time * 4, 1)","a":1},"materials":[{"*":"Material.default"}]}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.oreville_ans.ihllmwz":{"arrays":{"geometries":{"Array.geometries":["Geometry.cepnlhg","Geometry.hvoylct"]}},"geometry":"Array.geometries[math.mod(q.body_y_rotation, 90) == 0]","textures":["math.mod(q.body_y_rotation, 90) ? Texture.cepnlhg : Texture.default"]}}}

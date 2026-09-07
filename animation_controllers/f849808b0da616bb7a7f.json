@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.oreville_ans.ubatpmf.ubatpmf.jczgdau":{"initial_state":"default","states":{"default":{"animations":["ybdngee.2"],"transitions":[{"jczgdau":"q.is_sneaking"}]},"jczgdau":{"animations":["jczgdau"],"transitions":[{"default":"!q.is_sneaking && q.any_animation_finished"}],"blend_transition":0.26}}}}}

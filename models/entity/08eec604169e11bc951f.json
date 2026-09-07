@@ -1,0 +1,1 @@
+{"format_version":"1.12.0","minecraft:geometry":[{"description":{"identifier":"geometry.oreville_ans.xwjcyfm","texture_width":64,"texture_height":32,"visible_bounds_width":2,"visible_bounds_height":3.5,"visible_bounds_offset":[0,1.25,0]},"bones":[{"name":"root","pivot":[0,0,0]},{"name":"obduvyy","parent":"root","pivot":[0,12,0],"locators":{"cmnwlrs":[0,12,0]}}]}]}

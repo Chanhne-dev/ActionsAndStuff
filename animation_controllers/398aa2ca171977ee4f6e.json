@@ -1,0 +1,1 @@
+{"format_version":"1.19.60","animation_controllers":{"controller.animation.oreville_ans.dbyxrhk.dbyxrhk":{"states":{"default":{"animations":["xzonbgb"],"transitions":[{"avkflmx":"v.rzqyqgj && q.main_hand_item_use_duration > 0"}]},"avkflmx":{"animations":["zyhoqqh_ghstgej","zyhoqqh"],"transitions":[{"default":"!v.rzqyqgj || q.main_hand_item_use_duration == 0"}]}}}}}

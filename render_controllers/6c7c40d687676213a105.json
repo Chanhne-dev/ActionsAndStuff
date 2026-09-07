@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.oreville_ans.kgujgqc":{"arrays":{"geometries":{"Array.geometries":["Geometry.ytywote","Geometry.lsfqmjs"]}},"geometry":"Array.geometries[math.mod(q.body_y_rotation, 90) == 0]","textures":["math.mod(q.body_y_rotation, 90) ? Texture.ytywote : Texture.lsfqmjs"],"materials":[{"*":"Material.default"}]}}}

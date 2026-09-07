@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.oreville_ans.acriiua_ccgqiwb.move":{"loop":true,"bones":{"body":{"rotation":["math.cos(q.life_time*60)*180","math.sin(q.life_time*60)*180","math.sin(q.life_time*60+45)*360"],"scale":"math.hermite_blend(math.clamp(q.life_time*2,0,1))*0.8"}}}}}

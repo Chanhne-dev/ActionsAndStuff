@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.oreville_ans.nstmabh":{"geometry":"Geometry.default","textures":["Texture.default"],"ignore_lighting":true,"part_visibility":[{"*":"!q.is_attached_to_entity"}],"materials":[{"*":"Material.default"}]}}}

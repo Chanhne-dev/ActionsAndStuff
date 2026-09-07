@@ -1,0 +1,1 @@
+{"materials":{"version":"1.0.0","fullscreen_cube_overlay_blend:fullscreen_cube_overlay":{"+states":["Blending"],"blendSrc":"SourceAlpha","blendDst":"One","+samplerStates":[{"samplerIndex":0,"textureFilter":"Bilinear"}]}}}

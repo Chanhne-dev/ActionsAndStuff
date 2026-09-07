@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.oreville_ans.utmbavw":{"arrays":{"textures":{"Array.base":["Texture.default","Texture.btypmlk"],"Array.suffocated":["Texture.jnlvuie","Texture.ovutbng"]}},"geometry":"Geometry.default","textures":["q.is_shaking ? Array.suffocated[q.is_saddled] : Array.base[q.is_saddled]"]}}}

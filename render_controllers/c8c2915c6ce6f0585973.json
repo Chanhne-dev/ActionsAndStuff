@@ -1,0 +1,1 @@
+{"format_version":"1.10","render_controllers":{"controller.render.shield":{"geometry":"geometry.default","materials":[{"*":"variable.is_patterned ? (variable.is_enchanted ? material.orlzimq_qckfixe : material.orlzimq) : (variable.is_enchanted ? material.enchanted : material.default)"}],"textures":["texture.default","texture.enchanted","texture.pattern"]}}}
