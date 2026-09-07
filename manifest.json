@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description":"It gives your world a more dynamic and lively feel by adding several new animations, particles, and other stuff! (Work in progress).",
+        "name": "Actions & Stuff §8(1.0.2)",
+        "uuid": "22b87fae-158c-4663-aa29-a3d70acbf0b3",
+        "version": [1, 0, 2],
+        "min_engine_version": [ 1, 20, 80 ]
+    },
+    "modules": [
+        {
+            "description": "ACT",
+            "type": "resources",
+            "uuid": "19c0aaaf-dfcb-4de9-9184-eb1ba17cd774",
+            "version": [1, 0, 2]
+        }
+    ]
+}
